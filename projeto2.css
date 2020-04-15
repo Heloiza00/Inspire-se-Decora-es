@@ -12,14 +12,14 @@ body{
 h1{
     padding: 30px;
     font-size: 40px;
-    font-family: 'Lucida Sans Unicode Regular';
+    font-family: 'Arial Rounded MT';
     background-color: white;
     color:rgb(128, 128, 128);
     text-align: center;
 }
 
-h7{
-    font-family: 'Trebuchet MS';
+.h7{
+    font-family: 'Gill Sans MT';
     font-size: 30px;
     text-align: justify;
     display: block;
@@ -29,8 +29,8 @@ h7{
     color: black;
 }
 
-h8{
-    font-family: 'Trebuchet MS';
+.h8{
+    font-family: 'Gill Sans MT';
     font-size: 30px;
     text-align: justify;
     display: block;
@@ -131,7 +131,4 @@ div{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
-
 
